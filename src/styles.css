@@ -1,0 +1,40 @@
+.seating-wrapper {
+    width: 500px;
+    height: 500px;
+    border: 1px solid gray;
+    position: relative;
+  }
+  
+  .seating-item {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .desk {
+    border: 1px solid gray;
+    width: 60px;
+    height: 30px;
+  }
+  
+  .pillar {
+    border: 1px solid gray;
+    background: #f2f2f2;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+  }
+  
+  .table {
+    border: 1px solid gray;
+    width: 120px;
+    height: 60px;
+    border-radius: 30px;
+  }
+  
+  .user-avatar {
+    border-radius: 50%;
+  }
+  
+  

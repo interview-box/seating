@@ -1,0 +1,114 @@
+[
+  {
+      "id": 1,
+      "type": "desk",
+      "left": 50,
+      "top": 35,
+      "angle": 0
+  },
+  {
+      "id": 2,
+      "type": "desk",
+      "left": 130,
+      "top": 35,
+      "angle": 0
+  },
+  {
+      "id": 3,
+      "type": "desk",
+      "left": 210,
+      "top": 35,
+      "angle": 0
+  },
+  {
+      "id": 4,
+      "type": "desk",
+      "left": 50,
+      "top": 115,
+      "angle": 0
+  },
+  {
+      "id": 5,
+      "type": "desk",
+      "left": 130,
+      "top": 115,
+      "angle": 0
+  },
+  {
+      "id": 6,
+      "type": "desk",
+      "left": 210,
+      "top": 115,
+      "angle": 0
+  },
+  {
+      "id": 7,
+      "type": "desk",
+      "left": 465,
+      "top": 280,
+      "angle": 90
+  },
+  {
+      "id": 8,
+      "type": "desk",
+      "left": 465,
+      "top": 360,
+      "angle": 90
+  },
+  {
+      "id": 9,
+      "type": "desk",
+      "left": 465,
+      "top": 440,
+      "angle": 90
+  },
+  {
+      "id": 10,
+      "type": "desk",
+      "left": 50,
+      "top": 260,
+      "angle": 0
+  },
+  {
+      "id": 11,
+      "type": "desk",
+      "left": 130,
+      "top": 260,
+      "angle": 0
+  },
+  {
+      "id": 12,
+      "type": "desk",
+      "left": 210,
+      "top": 260,
+      "angle": 0
+  },
+  {
+      "id": 100,
+      "type": "pillar",
+      "left": 290,
+      "top": 115,
+      "angle": 0
+  },
+  {
+      "id": 101,
+      "type": "pillar",
+      "left": 290,
+      "top": 260,
+      "angle": 0
+  },
+  {
+      "id": 200,
+      "type": "table",
+      "left": 130,
+      "top": 400,
+      "angle": 0
+  },
+  {
+      "id": 201,
+      "type": "table",
+      "left": 410,
+      "top": 120,
+      "angle": 90
+  }
+]

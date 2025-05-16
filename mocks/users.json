@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Смирнов Василий",
+        "avatar": "https://i.pravatar.cc/30?img=1",
+        "position": "Менеджер",
+        "object_id": 1
+    },
+    {
+        "id": 2,
+        "name": "Иванов Дмитрий",
+        "avatar": "https://i.pravatar.cc/30?img=2",
+        "position": "Водитель",
+        "object_id": 2
+    },
+    {
+        "id": 3,
+        "name": "Романов Игорь",
+        "avatar": "https://i.pravatar.cc/30?img=3",
+        "position": "Ведущий специалист",
+        "object_id": 3
+    },
+    {
+        "id": 4,
+        "name": "Мигунова Ирина",
+        "avatar": "https://i.pravatar.cc/30?img=4",
+        "position": "Специалист службы техподдержки",
+        "object_id": 5
+    },
+    {
+        "id": 5,
+        "name": "Игнатьева Ольга",
+        "avatar": "https://i.pravatar.cc/30?img=5",
+        "position": "Секретарь",
+        "object_id": 7
+    },
+    {
+        "id": 6,
+        "name": "Бирюков Евгений",
+        "avatar": "https://i.pravatar.cc/30?img=6",
+        "position": "Заместитель",
+        "object_id": 200
+    },
+    {
+        "id": 7,
+        "name": "Гончаров Владимир",
+        "avatar": "https://i.pravatar.cc/30?img=7",
+        "position": "Генеральный директор",
+        "object_id": 200
+    }
+]
