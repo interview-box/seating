@@ -4,5 +4,4 @@ build
 coverage
 *.md
 *.html
-*.css
 *.json
