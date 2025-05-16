@@ -1,0 +1,30 @@
+# IDE
+.idea
+.atom
+.vscode
+
+# Config
+server-config.json
+server-config.*.json
+docker-compose
+
+# Build
+dist
+static
+build
+cache
+stats.json
+
+# Misc
+.DS_Store
+js/.DS_Store
+js/node_modules
+node_modules
+
+#test
+coverage/
+drafts/
+
+.env
+.env.local
+.eslintcache
